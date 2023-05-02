@@ -1,5 +1,6 @@
 # Matchstick
-This project is based on a very famous game based on matchsticks. There is a certain number of matchstick lines. The two players take turns; each player can, on a same line, take one or several matchsticks. The losing player is the one to take the last matchstick.
+This project is based on a very famous game based on matchsticks. There is a certain number of matchstick lines. The two players take turns; each player can, on a same line, take one or several matchsticks. The losing player is the one to take the last matchstick. 
+NB : Pdf of the project still available
 ### Usage:
       make re &&
       ./matchstick -h
